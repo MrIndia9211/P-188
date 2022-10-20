@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>India:The Golden Bird</title>
+    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"> </script>
+    <script src="https://cdn.jsdelivr.net/gh/n5ro/aframe-physics-system@v4.0.1/dist/aframe-physics-system.min.js"> </script>
+    <script src="movement.js"></script>
+
+
+</head>
+<body>
+    <a-scene id="scene"> 
+            <a-assets>
+              <a-assest-item id="character" src="./assets/ed-fullavatar/scene.gltf"></a-assest-item>
+              <a-assest-item id="road" src="./assets/simple_road_texture1/scene.gltf"></a-assest-item>
+              <a-assest-item id="temple" src="./assets/temple_model/scene.gltf"></a-assest-item>
+              <a-assest-item id="house" src="./assets/low-poly_street_house/scene.gltf"></a-assest-item>
+
+
+            </a-assets>
+        <!--Camera and Cursor-->
+            <a-entity
+              id="camera"
+              camera
+             position="0.09 1.7 0.8"
+              wasd-controls
+             look-controls="pointerLockEnabled: false"        
+             ></a-entity>
+           <a-cursor></a-cursor>
+           <!--Ground-->
+           <a-plane id="ground" repeat="5 5" position="0 1 0" rotation="-90 0 0" height="200" width="200" color="#00FF00"
+           static-body visible="true">
+         </a-plane>
+     
+            <!--Character-->
+            <a-entity id="charter-model" gltf-model="#character" position="0.9 1 0.5" scale="0.5  0.4" rotation="0 -200 0"  body="type: static; mass: 5; shape: none;" 
+            shape="shape: sphere; radius: 5; offset: 0 3 0;"
+            player-movement></a-entity>
+
+            <!--Road-->
+            <a-entity id="road-model" gltf-model="#road" position="0 1 0" scale="10  0.1" rotation="0 -200 0" height="100" width="0"  
+            
+            ></a-entity>   
+            
+           <!--temple-->
+           <a-entity id="temple-model" gltf-model="#temple" position="-10 1 80" scale="0.5  0.2" rotation="0 -20 0" height="100" width="20" ></a-entity> 
+           <!--House-->
+           <a-entity id="house-model" gltf-model="#house" position="-20 1 80" scale="0.5  0.2" rotation="0 -20 0" height="100" width="20" ></a-entity>   
+  
+
+    </a-scene>
+</body>
+</html>

@@ -1,0 +1,11 @@
+Model Information:
+* title:	FerBibliotecario
+* source:	https://sketchfab.com/3d-models/ferbibliotecario-ff3847432b914969aeba66bcc2adc657
+* author:	RamonFraga (https://sketchfab.com/RamonFragas)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "FerBibliotecario" (https://sketchfab.com/3d-models/ferbibliotecario-ff3847432b914969aeba66bcc2adc657) by RamonFraga (https://sketchfab.com/RamonFragas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ed-FullAvatar
+* source:	https://sketchfab.com/3d-models/ed-fullavatar-1349c234d0c24f09a9be43fbe23c04bd
+* author:	SrRamos (https://sketchfab.com/SrRamos)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ed-FullAvatar" (https://sketchfab.com/3d-models/ed-fullavatar-1349c234d0c24f09a9be43fbe23c04bd) by SrRamos (https://sketchfab.com/SrRamos) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

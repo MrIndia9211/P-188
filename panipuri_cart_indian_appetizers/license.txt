@@ -1,0 +1,11 @@
+Model Information:
+* title:	Panipuri Cart (indian appetizers)
+* source:	https://sketchfab.com/3d-models/panipuri-cart-indian-appetizers-b037fdaefe0546f6b485c16253e9429a
+* author:	Bongblender (https://sketchfab.com/Bongblender)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Panipuri Cart (indian appetizers)" (https://sketchfab.com/3d-models/panipuri-cart-indian-appetizers-b037fdaefe0546f6b485c16253e9429a) by Bongblender (https://sketchfab.com/Bongblender) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
